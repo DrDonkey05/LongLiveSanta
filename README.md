@@ -1,2 +1,2 @@
 # LongLiveSanta
- Game inspired by Long Live Santa
+ Game not inspired by Long Live Santa
