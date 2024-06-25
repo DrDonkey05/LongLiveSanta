@@ -1,4 +1,5 @@
-# LongLiveSanta
-# Increment every time you see this: 2
+# Game inspired by Long Live Santa
+
+# Increment every time you see this: 3
 
 Game not inspired by Long Live Santa
